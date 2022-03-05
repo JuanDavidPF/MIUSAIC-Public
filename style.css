@@ -1,0 +1,18 @@
+.invisible {
+  display: none;
+}
+
+body {
+  background-color: rgb(236, 243, 243);
+}
+
+#unity-container {
+  padding: 20px;
+  width: 80%;
+  border-radius: 30px;
+  box-shadow: 0px 20px 25px 5px rgba(6, 88, 84, 0.109);
+}
+#unity-canvas {
+  background-color: transparent;
+  border-radius: 20px;
+}
